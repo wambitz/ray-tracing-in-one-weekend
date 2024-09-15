@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Output directories
+build/
+
+# Output files
+*.ppm
